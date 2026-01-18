@@ -466,6 +466,22 @@ h1 {
     margin-bottom: 3rem;
 }
 
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.footer-logo img {
+    width: 32px;
+    height: 32px;
+}
+
+.footer-logo span {
+    font-size: 1.25rem;
+    font-weight: 800;
+}
+
 .footer-top p {
     color: var(--text-muted);
 }
