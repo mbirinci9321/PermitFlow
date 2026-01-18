@@ -179,33 +179,34 @@ h1 {
 /* Hero Mockup */
 .hero-visual {
     position: relative;
-    perspective: 1200px;
-    /* Increased perspective for better depth */
+    perspective: 1500px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
 }
 
 .dashboard-mockup {
     background: var(--bg-card);
-    border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
     overflow: hidden;
-    transform: rotateY(-18deg) rotateX(8deg) scale(1.05);
-    /* Slight scale to make it pop */
-    transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    width: 110%;
-    /* Slightly wider than container to accommodate rotation */
-    max-width: none;
-    box-shadow: 0 40px 100px -20px rgba(0, 0, 0, 0.5), 0 0 50px -10px var(--primary-glow);
+    transform: rotateY(-5deg) rotateX(2deg);
+    /* Subtle rotation for depth without clipping */
+    transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+    width: 100%;
+    max-width: 600px;
+    box-shadow: 0 50px 100px -20px rgba(0, 0, 0, 0.6), 0 0 40px -10px var(--primary-glow);
 }
 
 .dashboard-mockup:hover {
-    transform: rotateY(0deg) rotateX(0deg) scale(1.1);
+    transform: rotateY(0deg) rotateX(0deg) scale(1.05);
+    /* Gentle zoom on hover */
 }
 
 .mockup-header {
-    background: #1e293b;
-    padding: 0.75rem 1rem;
+    background: #111827;
+    padding: 0.8rem 1.2rem;
     display: flex;
     align-items: center;
 }
