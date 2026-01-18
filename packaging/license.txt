@@ -1,0 +1,49 @@
+PermitFlow Yazılım Lisans Sözleşmesi
+=====================================
+
+Son Güncelleme: 18 Ocak 2026
+
+Bu yazılım lisans sözleşmesi ("Sözleşme"), Murat Birinci Tech Labs ("Yayımcı") ile bu yazılımı yükleyen ve/veya kullanan kişi veya kuruluş ("Kullanıcı") arasında akdedilmiştir.
+
+1. LİSANS VERİLMESİ
+-------------------
+Yayımcı, Kullanıcı'ya PermitFlow yazılımını ("Yazılım") yalnızca dahili iş amaçları için kullanmak üzere münhasır olmayan, devredilemez bir lisans vermektedir.
+
+2. KULLANIM KISITLAMALARI
+-------------------------
+Kullanıcı aşağıdakileri yapmamayı kabul eder:
+- Yazılımı tersine mühendislik, kaynak koda dönüştürme veya parçalarına ayırma
+- Yazılımı üçüncü taraflara satma, kiralama veya alt lisanslama
+- Yazılımın telif hakkı bildirimlerini kaldırma veya değiştirme
+- Yazılımı yasa dışı amaçlarla kullanma
+
+3. FİKRİ MÜLKİYET
+-----------------
+Yazılım ve tüm kopyaları Yayımcı'nın mülkiyetindedir. Bu Sözleşme, Yazılım üzerinde herhangi bir mülkiyet hakkı vermez.
+
+4. GARANTİ REDDİ
+----------------
+YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR. YAYIMCI, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VEYA İHLAL ETMEME DAHİL ANCAK BUNLARLA SINIRLI OLMAKSIZIN, AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERMEZ.
+
+5. SORUMLULUK SINIRLAMASI
+-------------------------
+Yayımcı, bu Yazılımın kullanımından kaynaklanan doğrudan, dolaylı, arızi, özel veya sonuç olarak ortaya çıkan zararlardan hiçbir koşulda sorumlu tutulamaz.
+
+6. DESTEK VE GÜNCELLEMELER
+--------------------------
+Yayımcı, kendi takdirine bağlı olarak Yazılım için teknik destek ve güncellemeler sağlayabilir. Ancak bu hizmetlerin sağlanması zorunlu değildir.
+
+7. SÜRE VE FESİH
+----------------
+Bu Sözleşme, Kullanıcı Yazılımı yüklediğinde yürürlüğe girer. Kullanıcı Sözleşme şartlarını ihlal ederse, Yayımcı bu lisansı derhal feshedebilir.
+
+8. UYGULANACAK HUKUK
+--------------------
+Bu Sözleşme, Türkiye Cumhuriyeti kanunlarına tabidir.
+
+9. KABUL
+--------
+Bu Yazılımı yükleyerek veya kullanarak, bu Sözleşmenin tüm hüküm ve koşullarını okuduğunuzu, anladığınızı ve bunlara bağlı olmayı kabul ettiğinizi beyan edersiniz.
+
+---
+© 2026 Murat Birinci Tech Labs. Tüm hakları saklıdır.

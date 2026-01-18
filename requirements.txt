@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+websockets
+sqlalchemy
+ldap3
+pydantic

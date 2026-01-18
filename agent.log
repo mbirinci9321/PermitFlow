@@ -1,0 +1,5 @@
+2026-01-18 15:11:45,704 - PermitFlowAgent - INFO - Starting Agent DESKTOP-926693P connecting to ws://localhost:8000/agents/ws/DESKTOP-926693P
+2026-01-18 15:11:47,879 - PermitFlowAgent - INFO - Connected to Master Server
+2026-01-18 15:14:33,809 - PermitFlowAgent - WARNING - Connection closed by server
+2026-01-18 15:14:33,809 - PermitFlowAgent - INFO - Reconnecting in 5 seconds...
+2026-01-18 15:14:40,914 - PermitFlowAgent - INFO - Connected to Master Server
